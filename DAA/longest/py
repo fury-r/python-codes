@@ -1,0 +1,15 @@
+def sub_seq(main,sub):
+    matrix=[[ 0 for j in range(len(sub)+1)]  for i in range(len(main)+1)]
+    for i in range(1,len(matrix)):
+        for j in range(1,len(matrix[i])-1):
+            print(i,j)
+            if  i==0 or j==0:
+                matrix[i][j]=0
+            elif i>0 and j>0 :
+                if main[i]==sub[j]:
+                    matrix[i][j]=matrix[i-1][j-1]+1
+                elif main[i]!=sub[j]:
+                    matrix[i][j]=max(matrix[i-1][j],matrix[1][j-1])
+    print(matrix)
+
+sub_seq(["A","B","C","B","D","A","B"],['B',"D","C","A","B","A"])

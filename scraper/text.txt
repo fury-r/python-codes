@@ -1,0 +1,172 @@
+Title:Patterns in Confusing Explanations
+links:https://jvns.ca/blog/confusing-explanations/
+Votes:203
+
+Title:Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card
+links:https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/
+Votes:812
+
+Title:Collaborative filtering doesn't work for us
+links:https://about.chatroulette.com/posts/better-match-making-part-1/
+Votes:134
+
+Title:Index 1.6B Keys with Automata and Rust
+links:https://blog.burntsushi.net/transducers/
+Votes:132
+
+Title:Don't attach tooltips to document.body
+links:https://atfzl.com/don-t-attach-tooltips-to-document-body
+Votes:131
+
+Title:Show HN: Duedilly.io � Accuracy of Reddit Trading Ideas
+links:http://duedilly.io/
+Votes:144
+
+Title:FFmpeg for browser and Node, powered by WebAssembly
+links:https://ffmpegwasm.netlify.app/
+Votes:236
+
+Title:Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional
+links:https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html
+Votes:224
+
+Title:An inside look at the custom CPUs in Tesla's Dojo Supercomputer
+links:https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
+Votes:117
+
+Title:Generics enabled by default in Go tip
+links:https://go-review.googlesource.com/c/go/+/343732/
+Votes:196
+
+Title:Patterns in Confusing Explanations
+links:https://jvns.ca/blog/confusing-explanations/
+Votes:203
+
+Title:Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card
+links:https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/
+Votes:812
+
+Title:Collaborative filtering doesn't work for us
+links:https://about.chatroulette.com/posts/better-match-making-part-1/
+Votes:134
+
+Title:Index 1.6B Keys with Automata and Rust
+links:https://blog.burntsushi.net/transducers/
+Votes:132
+
+Title:Don't attach tooltips to document.body
+links:https://atfzl.com/don-t-attach-tooltips-to-document-body
+Votes:131
+
+Title:Show HN: Duedilly.io � Accuracy of Reddit Trading Ideas
+links:http://duedilly.io/
+Votes:144
+
+Title:FFmpeg for browser and Node, powered by WebAssembly
+links:https://ffmpegwasm.netlify.app/
+Votes:236
+
+Title:Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional
+links:https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html
+Votes:224
+
+Title:An inside look at the custom CPUs in Tesla's Dojo Supercomputer
+links:https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
+Votes:117
+
+Title:Generics enabled by default in Go tip
+links:https://go-review.googlesource.com/c/go/+/343732/
+Votes:196
+
+Title:Patterns in Confusing Explanations
+links:https://jvns.ca/blog/confusing-explanations/
+Votes:203
+
+Title:Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card
+links:https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/
+Votes:815
+
+Title:Collaborative filtering doesn't work for us
+links:https://about.chatroulette.com/posts/better-match-making-part-1/
+Votes:134
+
+Title:Don't attach tooltips to document.body
+links:https://atfzl.com/don-t-attach-tooltips-to-document-body
+Votes:133
+
+Title:Index 1.6B Keys with Automata and Rust
+links:https://blog.burntsushi.net/transducers/
+Votes:133
+
+Title:Show HN: Duedilly.io � Accuracy of Reddit Trading Ideas
+links:http://duedilly.io/
+Votes:145
+
+Title:FFmpeg for browser and Node, powered by WebAssembly
+links:https://ffmpegwasm.netlify.app/
+Votes:237
+
+Title:Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional
+links:https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html
+Votes:225
+
+Title:An inside look at the custom CPUs in Tesla's Dojo Supercomputer
+links:https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
+Votes:117
+
+Title:Generics enabled by default in Go tip
+links:https://go-review.googlesource.com/c/go/+/343732/
+Votes:198
+
+Title:Patterns in Confusing Explanations
+links:https://jvns.ca/blog/confusing-explanations/
+Votes:203
+
+Title:Facebook hacker beat my 2FA, bricked my Oculus, and hit the company credit card
+links:https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/
+Votes:815
+
+Title:Collaborative filtering doesn't work for us
+links:https://about.chatroulette.com/posts/better-match-making-part-1/
+Votes:134
+
+Title:Don't attach tooltips to document.body
+links:https://atfzl.com/don-t-attach-tooltips-to-document-body
+Votes:133
+
+Title:Index 1.6B Keys with Automata and Rust
+links:https://blog.burntsushi.net/transducers/
+Votes:133
+
+Title:Show HN: Duedilly.io � Accuracy of Reddit Trading Ideas
+links:http://duedilly.io/
+Votes:145
+
+Title:FFmpeg for browser and Node, powered by WebAssembly
+links:https://ffmpegwasm.netlify.app/
+Votes:237
+
+Title:Court rules California's Prop. 22 on Uber, Lyft drivers unconstitutional
+links:https://www.sacbee.com/news/politics-government/capitol-alert/article253647838.html
+Votes:225
+
+Title:An inside look at the custom CPUs in Tesla's Dojo Supercomputer
+links:https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
+Votes:117
+
+Title:Generics enabled by default in Go tip
+links:https://go-review.googlesource.com/c/go/+/343732/
+Votes:198
+
+Title:Manim: An animation engine for explanatory math videos
+links:https://github.com/ManimCommunity/manim
+Votes:508
+
+Title:Another free CA as an alternative to Let's Encrypt
+links:https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/
+Votes:599
+
+Title:Golang.org will be merged into go.dev
+links:https://go.dev/blog/tidy-web
+Votes:114
+

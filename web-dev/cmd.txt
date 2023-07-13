@@ -1,0 +1,6 @@
+ pip3 freeze > requirements.txt within an env
+ $ python3 -m venv env
+  .\Scripts\Activate.ps1
+  $env:FLASK_APP = "filename"
+  $env:FLASK_ENV = "development" for debug mode
+  flask run

@@ -1,0 +1,6 @@
+Import Data
+Clean the Data
+Split Data. Training Set/Test Set
+Create a Model Import 
+Check the output
+Improve 

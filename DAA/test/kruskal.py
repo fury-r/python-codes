@@ -1,0 +1,60 @@
+
+
+from numpy import vectorize
+
+
+class Kruskal:
+    def __init__(self,vertices):
+        self.vertices=vertices
+        self.edges=[]
+    def addEdge(self,u,v,w):
+        self.edges.append([u,v,w])
+    def getParent(self,parent,i):
+        if parent[i]==self.vertices[i]:
+            return i
+        return self.getParent(parent,parent[i])
+    
+    def union(self,parent,rank,x,y):
+        xroot=self.getParent(parent,x)
+        yroot=self.getParent(parent,y)
+        print(xroot,yroot)
+        if rank[xroot]==rank[yroot]:
+            parent[xroot]=yroot
+        elif rank[xroot]>rank[yroot]:parent[yroot]=xroot
+        else:
+            parent[yroot]=xroot
+            rank[xroot]+=1
+            
+    def solve(self):
+        result=[]
+        i,e=0,0
+        self.edges=sorted(self.edges,key=lambda item:item[2])
+        rank=[0 for i in self.vertices]
+        parent=[i for i in self.vertices]
+        while e<len(self.vertices)-1:
+            u,v,w=self.edges[i]
+            x=self.getParent(parent,self.vertices.index(u))
+            y=self.getParent(parent,self.vertices.index(v))
+            i+=1
+            if x!=y:
+                e+=1
+                result.append([u,v,w])
+                self.union(parent,rank,self.vertices.index(u),self.vertices.index(v))
+        for i in result:
+            print(i)
+        print(rank)
+g=Kruskal(['A','B','C','D','E','F'])
+""" for i in range(0,n):
+    
+    g.addEdge(input('Start '),input('END '),input("Weight ")) """
+g.addEdge('A','F',7)
+g.addEdge('A','C',3)
+g.addEdge('F','C',8)
+g.addEdge('A','B',5)
+g.addEdge('A','B',10)
+g.addEdge('C','B',6)
+g.addEdge('C','D',3)
+g.addEdge('B','D',2)
+g.addEdge('B','E',4)
+g.addEdge('D','E',2)
+g.solve()

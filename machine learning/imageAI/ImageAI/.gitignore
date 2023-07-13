@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.cpp
+*.so
+
+# temporary structure
+dist/
+build/
+output*/
+results/
+temp/
+runner/
+temporary/
+test/data-models/
+test/data-temp/
+*.db
+
+# PyCharm
+.idea/
+# Dropbox sync
+.dropbox.attr
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+pytest.*
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+*.egg-info
+
+# VSCode files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/

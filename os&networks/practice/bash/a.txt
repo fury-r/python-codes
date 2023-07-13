@@ -1,0 +1,3 @@
+Spatial*indexing*is*an*increasingly*important*area
+*of*geo-spatial*application*design.*
+*The*use-cases*abound*around*us.*Ride-sharing*apps*(Uber)*need*to*be*able*to*track*the*location*of*cars*in*near*real-time,*and*provide*user*updates*via*extremely*fast*geo-queries.*Facebook*wants*to*let*you*know*when*your*friends*are*nearby.*The*entities*(Uber*rides,*Facebook*users)*and*associated*meta-data*are*stored*in*traditional*tables*and*a*spatial*index*is*built*separately*with*the*coordinates*of*the*entities.*The*spatial*index*allows*special*geometric*queries*to*be*executed*efficiently.
